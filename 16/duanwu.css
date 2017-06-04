@@ -1,0 +1,103 @@
+#av{width:860px;margin:0 auto;}
+#logo{
+	margin-left:15px;
+float:left;
+}
+#ss{float:right;
+margin-right:25px;
+height:26px;}
+#navigate{
+margin-top:10px;
+
+}
+#navigate ul{
+width:100%;
+height:28px;
+background	:url("images/3.gif");
+background-repeat:repeat-x;
+overflow:hidden;
+list-style:none;
+margin:30px auto 0px;
+}
+#navigate ul li{
+	margin:30px auto 0px;
+float:left;
+margin:7px 12px;
+}
+#navigate ul li a{
+color:#FFF;
+}
+.menu{
+	width:100%;
+	height:28px;
+	background-image: url(images/3.gif);
+	background-repeat:repeat-x;
+	overflow:hidden;
+	list-style:none;
+	margin:30px auto 0px;
+}
+#banner{
+	width:100%;margin:0 auto;float:left;
+}
+#col{
+	width:835px;
+	margin:30px auto 0px;
+	background-color: #fbf1cc
+}
+#m{
+	background-image: url(images/4.jpg);
+	background-repeat:no-repeat;
+	color:white;
+
+}
+#m a{
+	color:white;
+}
+.main {
+	width:900px;
+	height:310px;
+	margin:30px auto 0px;
+}
+.main .mains{
+	width:900px;
+	height:260px;
+	margin:30px auto 0px;
+	float:left;
+}
+.main .list {
+	float: left;
+	width:180px;
+	height:380px;
+	border: 1px solid #ccc;
+	padding:10px;
+	margin-right:10px;
+}
+.mains .list1{
+	width:550px;
+	height:260px;
+	margin:0px auto 0px;
+	border: 1px solid #ccc;
+	float:left;
+}
+.mains .list2{
+	width:280px;
+	height:260px;
+	margin:0px auto 0px;
+	border: 1px solid #ccc;
+	float:left;
+}
+.list1 .e{
+	width:275px;
+	float:left;
+}
+.main .lj{
+	float: left;
+	width:180px;
+	border: 1px solid #ccc;
+	padding:10px;
+	margin-right:10px;
+
+}
+.lj ul a{
+	color:black;
+}
